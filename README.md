@@ -1,4 +1,4 @@
-swiggy_reccomend-------------------1
+swiggy_reccomend
 ==============================
 
 project for swiggy reccomendation
